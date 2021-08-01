@@ -1,0 +1,9 @@
+[["Which of the following will produce a value of 22 if x=22.9:","Ceil(x)","Round(x)","Rint(x)","Abs(x)", "Answer:C"],
+["If m and n are int type variables, what will be the result of the expression
+'m % n' when m = -14 and n = -3?","4","2","-2","-4", "Answer:C"],
+["Which statement is not true in java language?","A public member of a class can be accessed in all the packages."," A private member of a class cannot be accessed by the methods of the same class.","A private member of a class cannot be accessed from its derived class.","A protected member of a class can be accessed from its derived class.", "Answer:B"],
+["To prevent any method from overriding, we declare the method as","static","const","final","abstract", "Answer:C"],
+["Which one of the following is not true?","A class containing abstract methods is called an abstract class.","Abstract methods should be implemented in the derived class.","An abstract class cannot have non-abstract methods.","A class must be qualified as ‘abstract’ class, if it contains one abstract method.", "Answer:C"],
+["The fields in an interface are implicitly specified as","static only"," protected","private","both static and final", "Answer:D"],
+["Who is known as father of Java Programming Language?","James Gosling","M.P Java","Charles Babbage","Blais Pascal", "Answer:A"],
+["In java control statements break, continue, return, try-catch-finally and assert belongs to?","Selection statements","Loop Statements","Transfer statements","Pause Statement", "Answer:C"]]
